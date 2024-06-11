@@ -21,7 +21,7 @@
 
 ### Sobre mim
 
-Sou surdo, 30 anos, estou trabalhando atualmente **[DBServer](http://db.tec.br)**
+Sou surdo, 31 anos, estou trabalhando atualmente **[DBServer](http://db.tec.br)**
 <br>
 Estudo no curso Tecnologia em Análise e Desenvolvimento de Sistemas, meu hobby é futebol
 <br>
